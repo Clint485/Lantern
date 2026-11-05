@@ -6,6 +6,7 @@ gantt
 
     section Phase 0
     Time-saving options :p0, 2026-11-27, 22d
+    Appoint Interm Program Director    :g1, 2026-11-27, 22d
     Gate 1 approval :g1, 2026-12-18, 1d
 
     section Tower
