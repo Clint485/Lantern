@@ -55,18 +55,18 @@ gantt
     P3 Complete independent review and decide whether to scale :w16, 2027-07-01, 2027-11-30
 
     section Gate decisions
-    Gate 1 Approve costed options and scope :milestone, g1, 2026-12-18, 0d
-    Gate 2 Practical completion and June credibility :milestone, g2, 2027-03-31, 0d
-    Gate 3 Sprint 54 exit and cutover entry :milestone, g3, 2027-04-16, 0d
-    Gate 4 Cutover and rollout readiness :milestone, g4, 2027-06-25, 0d
-    Gate 5A Tower opening readiness :milestone, g5a, 2027-06-30, 0d
-    Gate 5B Six site grant evidence :milestone, g5b, 2027-06-30, 0d
-    Gate 6 Independent review and scale decision :milestone, g6, 2027-11-30, 0d
+    Gate 1 approve options :milestone, g1, 2026-12-18, 0d
+    Gate 2 practical completion :milestone, g2, 2027-03-31, 0d
+    Gate 3 Sprint 54 exit :milestone, g3, 2027-04-16, 0d
+    Gate 4 cutover readiness :milestone, g4, 2027-06-25, 0d
+    Gate 5A Tower readiness :milestone, g5a, 2027-06-30, 0d
+    Gate 5B grant evidence :milestone, g5b, 2027-06-30, 0d
+    Gate 6 scale decision :milestone, g6, 2027-11-30, 0d
 
     section Gate date lines
-    Gate 1 line : vert, vg1, 2026-12-18, 0d
-    Gate 2 line : vert, vg2, 2027-03-31, 0d
-    Gate 3 line : vert, vg3, 2027-04-16, 0d
-    Gate 4 line : vert, vg4, 2027-06-25, 0d
-    Gate 5 line : vert, vg5, 2027-06-30, 0d
-    Gate 6 line : vert, vg6, 2027-11-30, 0d
+    G1 : vert, vg1, 2026-12-18, 0d
+    G2 : vert, vg2, 2027-03-31, 0d
+    G3 : vert, vg3, 2027-04-16, 0d
+    G4 : vert, vg4, 2027-06-25, 0d
+    G5 : vert, vg5, 2027-06-30, 0d
+    G6 : vert, vg6, 2027-11-30, 0d
