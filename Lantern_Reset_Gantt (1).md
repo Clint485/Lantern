@@ -59,8 +59,7 @@ gantt
     Gate 2 practical completion :milestone, g2, 2027-03-31, 0d
     Gate 3 Sprint 54 exit :milestone, g3, 2027-04-16, 0d
     Gate 4 cutover readiness :milestone, g4, 2027-06-25, 0d
-    Gate 5A Tower readiness :milestone, g5a, 2027-06-30, 0d
-    Gate 5B grant evidence :milestone, g5b, 2027-06-30, 0d
+    Gate 5 Tower readiness :milestone, g5, 2027-06-30, 0d
     Gate 6 scale decision :milestone, g6, 2027-11-30, 0d
 
     section Gate date lines
