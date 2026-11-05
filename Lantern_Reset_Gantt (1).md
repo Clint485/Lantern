@@ -51,8 +51,8 @@ gantt
     P0 Check duplicate options paper row :w12, 2026-11-27, 2026-12-18
     P2 Confirm Commonwealth funding evidence :w13, 2027-04-01, 2027-06-30
     P3 Review defects adoption connectivity workload feedback cost and benefits :w14, 2027-07-01, 2027-11-30
-    P3 Continue approved controlled FlowSense validation :w15, 2027-07-01, 2027-11-30
-    P3 Complete independent review and decide whether to scale :w16, 2027-07-01, 2027-11-30
+    P3 Placeholder: FlowSense work only through approved, controlled validation :w15, 2027-07-01, 2027-11-30
+    P3 Determine if non critical elements are to be installed / commissioned :w16, 2027-07-01, 2027-11-30
 
     section Gate decisions
     Gate 1 approve options :milestone, g1, 2026-12-18, 0d
