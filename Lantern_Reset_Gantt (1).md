@@ -4,9 +4,13 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %b %Y
 
-    section Phase 0
+    section Phase 0 - Mobilise the Reset
     Time-saving options :p0, 2026-11-27, 22d
     Appoint Interm Program Director    :g1, 2026-11-27, 22d
+    Initiate Scope Freeze & Approval criteria    :g1, 2026-11-27, 22d
+    Request Acceleration plans & associated costs    :g1, 2026-11-27, 22d
+    Plan Face-2-Face Training    :g1, 2026-11-27, 22d
+    Confirm the Commonwealth’s Funding requirments    :g1, 2026-11-27, 22d
     Gate 1 approval :g1, 2026-12-18, 1d
 
     section Tower
